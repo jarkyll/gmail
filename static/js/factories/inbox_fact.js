@@ -13,6 +13,6 @@ app.factory("inboxfact", ['$http', function($http){
 
 	};
 
-	return exports
+	return exports;
 
 }]);
